@@ -6,11 +6,11 @@ import { AppProvider } from "./context";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Projects from "./Projects";
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 
 const App = () => {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <AppProvider>
         <Net />
         <section style={{ marginTop: "720px" }}>
@@ -19,7 +19,7 @@ const App = () => {
           <Contact />
         </section>
       </AppProvider>
-    </HashRouter>
+    </BrowserRouter>
   );
 };
 
