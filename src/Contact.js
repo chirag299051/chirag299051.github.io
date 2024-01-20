@@ -33,7 +33,7 @@ const Contact = () => {
           <span>Facebook</span>
         </a>
         <a
-          href="https://www.instagram.com/chirag299051/"
+          href="https://www.instagram.com/c.h.i.r.a.g_9/"
           className="hvr-sweep-to-right-white btn-lg btn-black"
         >
           <span>Instagram</span>
