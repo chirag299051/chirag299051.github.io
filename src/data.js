@@ -98,6 +98,6 @@ export const projects = [
     img: gtr,
     url: "https://chirag299051.github.io/my-tunes/",
     techArr: ["REACT", "Javascript"],
-    desc: "Learn Guitar with some inbuilt features.",
+    desc: "Learn Guitar with 75+ Hindi Songs.",
   },
 ];
