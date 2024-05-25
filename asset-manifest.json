@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c78a000.css",
-    "main.js": "/static/js/main.d1f4617b.js",
+    "main.js": "/static/js/main.5f80dd2b.js",
     "static/js/787.a0118156.chunk.js": "/static/js/787.a0118156.chunk.js",
     "static/media/movie3.png": "/static/media/movie3.8f837f75da6b7c793e14.png",
     "static/media/gmart.png": "/static/media/gmart.d7eff7a58a8c90386866.png",
@@ -29,11 +29,11 @@
     "static/media/angular.svg": "/static/media/angular.e185415c50bc1885eed6c6cc9d2b009e.svg",
     "index.html": "/index.html",
     "main.7c78a000.css.map": "/static/css/main.7c78a000.css.map",
-    "main.d1f4617b.js.map": "/static/js/main.d1f4617b.js.map",
+    "main.5f80dd2b.js.map": "/static/js/main.5f80dd2b.js.map",
     "787.a0118156.chunk.js.map": "/static/js/787.a0118156.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c78a000.css",
-    "static/js/main.d1f4617b.js"
+    "static/js/main.5f80dd2b.js"
   ]
 }
