@@ -51,6 +51,7 @@ export const projects = [
     url: "https://connectio-okl1.onrender.com/",
     techArr: ["REACT", "EXPRESS", "MONGODB"],
     desc: "Social Media app.",
+    type: "none;",
   },
   {
     id: 0,
@@ -59,6 +60,7 @@ export const projects = [
     url: "https://moviedb-v3.onrender.com/",
     techArr: ["REACT", "EXPRESS", "MONGODB"],
     desc: "Movie database app.",
+    type: "none;",
   },
   {
     id: 1,
@@ -67,6 +69,7 @@ export const projects = [
     url: "https://housing-app.onrender.com/",
     techArr: ["REACT", "EXPRESS", "MONGODB"],
     desc: "Housing App using MERN Stack",
+    type: "none;",
   },
   {
     id: 2,
@@ -75,6 +78,7 @@ export const projects = [
     url: "https://chirag299051.github.io/weather-app/",
     techArr: ["REACT", "Google Cloud Platform"],
     desc: "Get weather and news, all around the world.",
+    type: "none;",
   },
   {
     id: 3,
